@@ -17,7 +17,7 @@ import (
 ## Installation:
 
 ```shell
-go get "github.com/husamettinarabaci/gotypenet@latest"
+go get "github.com/husamettinarabaci/gotype@latest"
 ```
 
 ## Developers:

@@ -15,7 +15,7 @@ import (
 
 func main() {
 	slc := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
-	slc = Remove(slc, 3)
+	slc = hsmslice.Remove(slc, 3)
 }
 ```
 
