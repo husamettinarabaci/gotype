@@ -1,4 +1,4 @@
-# gonet/port
+# gotype/slice
 
 Slice Type Module
 
