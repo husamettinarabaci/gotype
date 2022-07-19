@@ -9,9 +9,12 @@ package main
 
 import (
 	"fmt"
-
 	hsmtype "github.com/husamettinarabaci/gotype"
 )
+
+func main(){
+hsmtype...
+}
 ```
 
 ## Installation:
